@@ -2,7 +2,7 @@
 
 # Awesome Happy Horse Prompts
 
-Offizielle Happy Horse Beispiele und Prompts für KI-Videogenerierung.
+Offizielle Happy Horse Beispiele und Prompts für die KI-Videogenerierung.
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -18,11 +18,11 @@ Offizielle Happy Horse Beispiele und Prompts für KI-Videogenerierung.
 
 </div>
 
-## 🍌 Introduction
+## 🍌 Einführung
 
-All examples below are official examples.
+Alle folgenden Beispiele sind offizielle Beispiele.
 
-## 📑 Menu
+## 📑 Menü
 
 - [Case 1: Official Example 1](#case-1-official-example-1)
 - [Case 2: Official Example 2](#case-2-official-example-2)
@@ -34,7 +34,7 @@ All examples below are official examples.
 - [Case 8: Official Example 8](#case-8-official-example-8)
 - [Case 9: Official Example 9](#case-9-official-example-9)
 
-## Official Examples
+## Offizielle Beispiele
 
 ### Case 1: Official Example 1
 

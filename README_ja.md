@@ -18,11 +18,11 @@ AI動画生成のための公式 Happy Horse サンプルとプロンプト集�
 
 </div>
 
-## 🍌 Introduction
+## 🍌 はじめに
 
-All examples below are official examples.
+以下のすべての例は公式サンプルです。
 
-## 📑 Menu
+## 📑 メニュー
 
 - [Case 1: Official Example 1](#case-1-official-example-1)
 - [Case 2: Official Example 2](#case-2-official-example-2)
@@ -34,7 +34,7 @@ All examples below are official examples.
 - [Case 8: Official Example 8](#case-8-official-example-8)
 - [Case 9: Official Example 9](#case-9-official-example-9)
 
-## Official Examples
+## 公式サンプル
 
 ### Case 1: Official Example 1
 

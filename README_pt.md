@@ -2,7 +2,7 @@
 
 # Awesome Happy Horse Prompts
 
-Exemplos oficiais e prompts de Happy Horse para geração de vídeo com IA.
+Exemplos oficiais do Happy Horse e prompts para geração de vídeo com IA.
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -18,9 +18,9 @@ Exemplos oficiais e prompts de Happy Horse para geração de vídeo com IA.
 
 </div>
 
-## 🍌 Introduction
+## 🍌 Introdução
 
-All examples below are official examples.
+Todos os exemplos abaixo são exemplos oficiais.
 
 ## 📑 Menu
 
@@ -34,7 +34,7 @@ All examples below are official examples.
 - [Case 8: Official Example 8](#case-8-official-example-8)
 - [Case 9: Official Example 9](#case-9-official-example-9)
 
-## Official Examples
+## Exemplos Oficiais
 
 ### Case 1: Official Example 1
 

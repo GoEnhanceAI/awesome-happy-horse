@@ -18,11 +18,11 @@ AI 비디오 생성을 위한 공식 Happy Horse 예시와 프롬프트 모음�
 
 </div>
 
-## 🍌 Introduction
+## 🍌 소개
 
-All examples below are official examples.
+아래의 모든 예시는 공식 예시입니다.
 
-## 📑 Menu
+## 📑 메뉴
 
 - [Case 1: Official Example 1](#case-1-official-example-1)
 - [Case 2: Official Example 2](#case-2-official-example-2)
@@ -34,7 +34,7 @@ All examples below are official examples.
 - [Case 8: Official Example 8](#case-8-official-example-8)
 - [Case 9: Official Example 9](#case-9-official-example-9)
 
-## Official Examples
+## 공식 예시
 
 ### Case 1: Official Example 1
 

@@ -18,11 +18,11 @@ Yapay zeka video üretimi için resmi Happy Horse örnekleri ve promptları.
 
 </div>
 
-## 🍌 Introduction
+## 🍌 Giriş
 
-All examples below are official examples.
+Aşağıdaki örneklerin tamamı resmi örneklerdir.
 
-## 📑 Menu
+## 📑 Menü
 
 - [Case 1: Official Example 1](#case-1-official-example-1)
 - [Case 2: Official Example 2](#case-2-official-example-2)
@@ -34,7 +34,7 @@ All examples below are official examples.
 - [Case 8: Official Example 8](#case-8-official-example-8)
 - [Case 9: Official Example 9](#case-9-official-example-9)
 
-## Official Examples
+## Resmi Örnekler
 
 ### Case 1: Official Example 1
 
