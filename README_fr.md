@@ -2,7 +2,7 @@
 
 # Awesome Happy Horse Prompts
 
-Exemples officiels Happy Horse et prompts pour la génération vidéo par IA.
+Exemples Happy Horse et prompts pour la génération vidéo par IA.
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)

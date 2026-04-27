@@ -2,7 +2,7 @@
 
 # Awesome Happy Horse Prompts
 
-AI動画生成のための公式 Happy Horse サンプルとプロンプト集です。
+AI動画生成のための Happy Horse サンプルとプロンプト集です。
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)

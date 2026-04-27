@@ -2,7 +2,7 @@
 
 # Awesome Happy Horse Prompts
 
-這是用於 AI 影片生成的官方 Happy Horse 範例與提示詞集合。
+這是用於 AI 影片生成的 Happy Horse 範例與提示詞集合。
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)

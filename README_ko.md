@@ -2,7 +2,7 @@
 
 # Awesome Happy Horse Prompts
 
-AI 비디오 생성을 위한 공식 Happy Horse 예시와 프롬프트 모음입니다.
+AI 비디오 생성을 위한 Happy Horse 예시와 프롬프트 모음입니다.
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)

@@ -2,7 +2,7 @@
 
 # Awesome Happy Horse Prompts
 
-Yapay zeka video üretimi için resmi Happy Horse örnekleri ve promptları.
+Yapay zeka video üretimi için Happy Horse örnekleri ve promptları.
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)

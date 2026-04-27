@@ -2,7 +2,7 @@
 
 # Awesome Happy Horse Prompts
 
-Официальные примеры Happy Horse и промпты для генерации видео с ИИ.
+Примеры Happy Horse и промпты для генерации видео с ИИ.
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
