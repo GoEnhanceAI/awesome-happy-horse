@@ -48,7 +48,7 @@ A cinematic script scene set in a sun-drenched Parisian café, golden afternoon 
 
 [![](videos/b8c827e9-a09a-5d20-9573-9f6ae411f49b/cover.jpg)](videos/b8c827e9-a09a-5d20-9573-9f6ae411f49b/1.mp4)
 
-Video link: [videos/b8c827e9-a09a-5d20-9573-9f6ae411f49b/1.mp4](videos/b8c827e9-a09a-5d20-9573-9f6ae411f49b/1.mp4)
+Video bağlantısı: [videos/b8c827e9-a09a-5d20-9573-9f6ae411f49b/1.mp4](videos/b8c827e9-a09a-5d20-9573-9f6ae411f49b/1.mp4)
 
 ### Vaka 2: Resmi Örnek 2
 
@@ -62,7 +62,7 @@ Video link: [videos/b8c827e9-a09a-5d20-9573-9f6ae411f49b/1.mp4](videos/b8c827e9-
 
 [![](videos/c4d76aee-4ef7-5dcb-8d96-fa436aab16ba/cover.jpg)](videos/c4d76aee-4ef7-5dcb-8d96-fa436aab16ba/1.mp4)
 
-Video link: [videos/c4d76aee-4ef7-5dcb-8d96-fa436aab16ba/1.mp4](videos/c4d76aee-4ef7-5dcb-8d96-fa436aab16ba/1.mp4)
+Video bağlantısı: [videos/c4d76aee-4ef7-5dcb-8d96-fa436aab16ba/1.mp4](videos/c4d76aee-4ef7-5dcb-8d96-fa436aab16ba/1.mp4)
 
 ### Vaka 3: Resmi Örnek 3
 
@@ -76,7 +76,7 @@ Video link: [videos/c4d76aee-4ef7-5dcb-8d96-fa436aab16ba/1.mp4](videos/c4d76aee-
 
 [![](videos/530318cf-4e9a-5acd-ba2a-08aa56e701cd/cover.jpg)](videos/530318cf-4e9a-5acd-ba2a-08aa56e701cd/1.mp4)
 
-Video link: [videos/530318cf-4e9a-5acd-ba2a-08aa56e701cd/1.mp4](videos/530318cf-4e9a-5acd-ba2a-08aa56e701cd/1.mp4)
+Video bağlantısı: [videos/530318cf-4e9a-5acd-ba2a-08aa56e701cd/1.mp4](videos/530318cf-4e9a-5acd-ba2a-08aa56e701cd/1.mp4)
 
 ### Vaka 4: Resmi Örnek 4
 
@@ -90,7 +90,7 @@ Video link: [videos/530318cf-4e9a-5acd-ba2a-08aa56e701cd/1.mp4](videos/530318cf-
 
 [![](videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/cover.jpg)](videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4)
 
-Video link: [videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4](videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4)
+Video bağlantısı: [videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4](videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4)
 
 ### Vaka 5: Resmi Örnek 5
 
@@ -104,7 +104,7 @@ Video link: [videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4](videos/d44554f0-
 
 [![](videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/cover.jpg)](videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4)
 
-Video link: [videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4](videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4)
+Video bağlantısı: [videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4](videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4)
 
 ### Vaka 6: Resmi Örnek 6
 
@@ -118,7 +118,7 @@ Video link: [videos/d44554f0-2391-5e00-a00d-e80dce66a7f4/1.mp4](videos/d44554f0-
 
 [![](videos/c41fdcb5-76d4-5559-9d19-0c5bfb27b5ab/cover.jpg)](videos/c41fdcb5-76d4-5559-9d19-0c5bfb27b5ab/1.mp4)
 
-Video link: [videos/c41fdcb5-76d4-5559-9d19-0c5bfb27b5ab/1.mp4](videos/c41fdcb5-76d4-5559-9d19-0c5bfb27b5ab/1.mp4)
+Video bağlantısı: [videos/c41fdcb5-76d4-5559-9d19-0c5bfb27b5ab/1.mp4](videos/c41fdcb5-76d4-5559-9d19-0c5bfb27b5ab/1.mp4)
 
 ### Vaka 7: Resmi Örnek 7
 
@@ -132,7 +132,7 @@ A boy and the rusty robot stand under the cool glow of the full moon, gently hol
 
 [![](videos/789a0d19-f20a-542e-85ba-df3c84bcb3e2/cover.jpg)](videos/789a0d19-f20a-542e-85ba-df3c84bcb3e2/1.mp4)
 
-Video link: [videos/789a0d19-f20a-542e-85ba-df3c84bcb3e2/1.mp4](videos/789a0d19-f20a-542e-85ba-df3c84bcb3e2/1.mp4)
+Video bağlantısı: [videos/789a0d19-f20a-542e-85ba-df3c84bcb3e2/1.mp4](videos/789a0d19-f20a-542e-85ba-df3c84bcb3e2/1.mp4)
 
 ### Vaka 8: Resmi Örnek 8
 
@@ -146,7 +146,7 @@ Cinematic western standoff. A sun-bleached desert outpost with wind whistling th
 
 [![](videos/6c956350-3907-5b08-8ef2-2db05658079d/cover.jpg)](videos/6c956350-3907-5b08-8ef2-2db05658079d/1.mp4)
 
-Video link: [videos/6c956350-3907-5b08-8ef2-2db05658079d/1.mp4](videos/6c956350-3907-5b08-8ef2-2db05658079d/1.mp4)
+Video bağlantısı: [videos/6c956350-3907-5b08-8ef2-2db05658079d/1.mp4](videos/6c956350-3907-5b08-8ef2-2db05658079d/1.mp4)
 
 ### Vaka 9: Resmi Örnek 9
 
@@ -160,7 +160,7 @@ Video link: [videos/6c956350-3907-5b08-8ef2-2db05658079d/1.mp4](videos/6c956350-
 
 [![](videos/a299ba5e-e0e2-575b-8b4e-c387993c3c6f/cover.jpg)](videos/a299ba5e-e0e2-575b-8b4e-c387993c3c6f/1.mp4)
 
-Video link: [videos/a299ba5e-e0e2-575b-8b4e-c387993c3c6f/1.mp4](videos/a299ba5e-e0e2-575b-8b4e-c387993c3c6f/1.mp4)
+Video bağlantısı: [videos/a299ba5e-e0e2-575b-8b4e-c387993c3c6f/1.mp4](videos/a299ba5e-e0e2-575b-8b4e-c387993c3c6f/1.mp4)
 
 ---
 
