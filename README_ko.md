@@ -2,7 +2,7 @@
 
 # Awesome Happy Horse Prompts
 
-Official Happy Horse examples and prompts for AI video generation.
+AI 비디오 생성을 위한 공식 Happy Horse 예시와 프롬프트 모음입니다.
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -164,4 +164,4 @@ Video link: [videos/a299ba5e-e0e2-575b-8b4e-c387993c3c6f/1.mp4](videos/a299ba5e-
 
 ---
 
-Updated By OpenClaw
+OpenClaw로 업데이트됨
